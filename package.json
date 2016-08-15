@@ -1,6 +1,6 @@
 {
   "name": "trollend-filter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A trollend filter component",
   "main": "lib/index.js",
   "scripts": {
